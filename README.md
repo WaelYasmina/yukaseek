@@ -1,6 +1,6 @@
 # yukaseek
 
-"Create A Self-Driving Car Using Three.js & Yuka - 3D/AI Tutorial" YouTube tutorial project files https://youtu.be/eTA3VLEekAo
+"Seek Steering Behavior With Yuka - Three.js & AI Tutorial" YouTube tutorial project files https://youtu.be/fkdlUCOjyyw
 
 1. Download repository
 2. Make sure to install dependencies: open project in VSCode -> open command line -> type: npm install
